@@ -19,4 +19,4 @@ Minimum: 1
 The code for this experiment is in `max_min_array.py`
 
 ## Output Screenshot
-![Output](test2_passed.png)
+!test2_passed.png
