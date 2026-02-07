@@ -19,4 +19,4 @@ Minimum: 1
 The code for this experiment is in `max_min_array.py`
 
 ## Output Screenshot
-!https://github.com/goalat9580-oss/Python-Lab-experiments-IILM/blob/main/Python-Lab-experiments-IILM/Experiment-02/test2_passed.png
+https://github.com/goalat9580-oss/Python-Lab-experiments-IILM/blob/main/Python-Lab-experiments-IILM/Experiment-02/test2_passed.png
