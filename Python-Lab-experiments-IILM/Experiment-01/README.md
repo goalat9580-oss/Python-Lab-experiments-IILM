@@ -15,4 +15,4 @@ You are given an array of integers. Reverse the array.
 3. Print the result
 
 ## Output Screenshot
-![Output](output.png)
+!https://github.com/goalat9580-oss/Python-Lab-experiments-IILM/blob/main/Python-Lab-experiments-IILM/Experiment-01/test1_passed.png
