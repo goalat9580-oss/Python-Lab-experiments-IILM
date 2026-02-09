@@ -30,4 +30,5 @@ The last element 5 moves to the front and all other elements are shifted one pos
 The code for this experiment is in clockwise_rotation_array.py
 
 ##Output
+https://github.com/goalat9580-oss/Python-Lab-experiments-IILM/blob/main/Python-Lab-experiments-IILM/Experiment-06/test6_passed.png
 
